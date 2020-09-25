@@ -7,8 +7,10 @@ import Sidebar from './Sidebar';
 function App() {
   return (
     <div className="app">
-      <Sidebar />
-      <Chat />
+      <div className="app__body">
+        <Sidebar />
+        <Chat />
+      </div>
     </div>
   );
 }
