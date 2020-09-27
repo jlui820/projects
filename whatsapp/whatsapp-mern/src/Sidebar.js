@@ -1,4 +1,3 @@
-import { DonutLarge } from '@material-ui/icons';
 import React from 'react';
 import './Sidebar.css';
 import DonutLargeIcon from '@material-ui/icons/DonutLarge';
